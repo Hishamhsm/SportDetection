@@ -1,0 +1,99 @@
+item {
+  id: 1
+  name: 'Cricket Player'
+}
+
+item {
+  id: 2
+  name: 'Cricket Boundary'
+}
+
+item {
+  id: 3
+  name: 'Cricket Batsman'
+}
+
+item {
+  id: 4
+  name: 'Cricket Umpire'
+}
+
+item {
+  id: 5
+  name: 'Cricket Stumps'
+}
+
+item {
+  id: 6
+  name: 'Cricket Bat'
+}
+
+item {
+  id: 7
+  name: 'Cricket Pitch'
+}
+
+item {
+  id: 8
+  name: 'Cricket Ball'
+}
+
+item {
+  id: 9
+  name: 'FootBall'
+}
+
+item {
+  id: 10
+  name: 'FootBall player'
+}
+
+item {
+  id: 11
+  name: 'FootBall GoalPost'
+}
+
+item {
+  id: 12
+  name: 'FootBall DBox'
+}
+
+item {
+  id: 13
+  name: 'FootBall Box'
+}
+
+item {
+  id: 14
+  name: 'FootBall CornerFlag'
+}
+
+item {
+  id: 15
+  name: 'FootBall Circle'
+}
+
+item {
+  id: 16
+  name: 'Tennis Player'
+}
+
+item {
+  id: 17
+  name: 'Tennis Racket'
+}
+
+item {
+  id: 18
+  name: 'Tennis Net'
+}
+
+item {
+  id: 19
+  name: 'Tennis Court'
+}
+
+item {
+  id: 20
+  name: 'Tennis Ball'
+}
