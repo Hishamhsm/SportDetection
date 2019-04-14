@@ -4,7 +4,7 @@
    2. Football
    3. Tennis
 
-Check out 'app.py' file for the code.
+**Check out 'app.py' file for the code.**
 
  The detection process incorporates a customized version of the Tensorflow object detection API model. Faster R-CNN is chosen for the object detection process as to bring in a higher accuracy on object detections with less number of training images. 60 images were used per class to train this Faster R-CNN model with 20 classes of objects that could be detected from an image uploaded.
 
