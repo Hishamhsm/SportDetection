@@ -29,6 +29,14 @@ Objects that could be detected on an uploaded image:
   19. Tennis Court
   20. Tennis Ball
 
-Then the number of detections for each object on the image is added as an observation to a pandas dataframe. The above 20 objects are the features for that dataframe and the number of detections are entered in each row adding one row per image. A row will contain the number of times each object appeared on an image. 
+Sample Detections on image before further processing:
+
+![Sample1](Sample_detections_on_image/1.png)
+
+![Sample2](Sample_detections_on_image/2.png)
+
+![Sample3](Sample_detections_on_image/3.png)
+
+Then the number of detections for each object on the image is added as an observation to a pandas dataframe. The above 20 objects are the features for that dataframe and the number of detections are entered in each row adding one row per image. A row will contain the number of times each object appeared on an image.
 
 Then this row is fed to a Randon Forest Classifier to predict the sport depending on the objects present in the image.
